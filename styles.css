@@ -1,0 +1,371 @@
+body{
+    background-color:#e9ecef;
+}
+.homepage{
+    display: flex;
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 110%;
+    height: 800px;
+    
+}
+.home{
+    margin-top: 25%;
+    margin-right: 30px;
+}
+.buttons{
+    margin-left: 40%;
+}
+nav{
+
+}
+.nuro{
+    color: #228be6;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sign{
+    background-color: #228be6;
+    border: none;
+}
+.checks{
+    display: flex;
+    padding: 40px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 20px;
+}
+.location{
+    color: #228be6;
+}
+.hote{
+    color: #228be6;
+}
+.icons1{
+    display: flex;
+    padding-left: 30px;
+    margin-left: 25%;
+    gap: 10px;
+}
+.icons2{
+    display: flex;
+    padding-left: 30px;
+    margin-left: 25%;
+    gap: 10px;
+    margin-top: 5%;
+}
+.s{
+    background-color: #e7f5ff;
+    padding: 60px;
+}
+.r{
+    width: 80%;
+    height: 80%;
+    color: #4dabf7;
+}
+.search{
+    background-color: #228be6;
+    border: none;
+    border-radius: 10px;
+}
+.simple{
+    color: white;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+.make{
+    color: white;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.pop{
+font-family: 'Quicksand', sans-serif;
+margin-left: 30%;
+margin-top: 10%;
+font-weight: bolder;
+font-size: xx-large;
+}
+.hotels{
+    display: flex;
+    margin-left: 5%;
+    gap: 20px;
+}
+.hotel1{
+    background-image: url("dubai.webp");
+    background-repeat:no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 300px;
+}
+.hotel2{
+    background-image: url("westin.webp");
+    background-repeat:no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 300px;
+}
+.hotel3{
+    background-image: url("pool.webp");
+    background-repeat:no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 300px;
+}
+.Hnames{
+    margin-top: 70%;
+    float: left;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: larger;
+}
+.see{
+    margin-left: 40%;
+    margin-top: 2%;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 2px solid #4dabf7;
+    color: #4dabf7;
+}
+.facilities{
+    margin-left:40% ;
+    margin-top: 5%;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.rooms{
+    margin-left: 40%;
+    margin-top: 5%;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.images1{
+    display: flex;
+    margin-left: 10%;
+    gap: 20px;
+}
+.images2{
+    display: flex;
+    margin-left: 10%;
+    gap: 20px;
+    margin-top: 2%;
+}
+
+.img{
+    width: 80%;
+    height: 60%;
+}
+.lorem{
+    margin-left: 40%;
+}
+.imgs{
+gap: 20px;
+background-color: white;
+}
+.book{
+    border:none;
+    border-radius: 10px;
+    color:white; 
+    background-color: #4dabf7; 
+    padding: 10px;
+}
+.lux{
+    font-size: x-large;
+    font-weight: bolder;
+}
+.night{
+    display: flex;
+}
+.ion{
+    margin-left: 30%;
+}
+.ions{
+    color: #4dabf7;
+}
+.menu{
+    margin-left: 40%;
+    margin-top: 5%;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.food{
+    margin-left: 40%;
+    display: flex;
+}
+.b{
+    padding: 30px;
+}
+.lunch{
+    color:#228be6;
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Quicksand', sans-serif;
+}
+.break{
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Quicksand', sans-serif;
+}
+.pasta{
+    display: flex;
+    gap: 20px;
+}
+.now{
+    background-color: #228be6;
+    color: white;
+}
+.biryani{
+    display: flex;
+    gap: 20px;
+    margin-top: 2%;
+}
+.imags{
+    gap: 20px;
+    background-color: white;
+}
+.client{
+    margin-left: 40%;
+    margin-top: 5%;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.say{
+    display: flex;
+}
+.dolor{
+    background-color: #f1f3f5;
+    padding: 40px;
+    margin-left: 5%;
+}
+.pic{
+    width: 40%;
+    height: 40%;
+    margin-top: 20%;
+    margin-left: 30%;
+    border-radius: 100px;
+}
+.date{
+    color: #868e96;
+}
+.name{
+font-weight: bolder;
+}
+.job{
+    color: #4dabf7;
+}
+.arrows{
+    display: flex;
+    gap: 20px;
+    margin-left: 50%;
+    margin-top: 3%;
+}
+.ar{
+    border:2px solid #228be6;
+    border-radius: 30px;
+    padding: 10px;
+}
+.arrow{
+    color: #228be6;
+}
+.us{
+
+}
+.choose{
+    display: flex;
+}
+.girl{
+    margin-left: 10px;
+}
+.g{
+    width: 80%;
+    height:500px;
+    margin-top:20% ;
+}
+.us{
+    margin-left: 40%;
+    margin-top: 5%;
+    font-size: xx-large;
+    font-weight: bolder; 
+}
+.reviews{
+    padding: 60px;
+}
+.rev{
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color:white;
+    background-color: #228be6;
+}
+.ion{
+    color: #228be6;
+    width: 50px;
+    height: 50px;
+}
+.but{
+    background-color: #e7f5ff;
+    padding: 20px;
+    border: none;
+    border-radius: 120px;
+}
+.vip{
+    font-size:medium;
+    font-weight: bolder;
+}
+.vp{
+    display: flex;
+}
+.news{
+background-color: #228be6;
+border: none;
+border-radius: 20px;
+}
+.new{
+font-weight: bolder;
+font-size: larger;
+margin-left: 30%;
+}
+.enter{
+    padding: 20px;
+    padding-left: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    margin-left: 30%;
+    margin-bottom: 5%;
+}
+.sits{
+    margin-left: 30%;
+}
+.subs{
+background-color: #228be6;
+border: none;
+border-radius: 20px;
+padding: 10px;
+}
+footer{
+    display: flex;
+    margin-top: 5%;
+}
+.end{
+    padding: 10px;
+    margin-left: 20%;
+    font-weight: bold;
+}
+.shei{
+    padding: 20px;
+    margin-left: 5%;
+    font-weight: bold;
+}
+ul li{
+    text-decoration: none;
+    list-style: none;
+}

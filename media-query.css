@@ -1,0 +1,19 @@
+@media   screen  and ( max-width:800px){
+.homepage{
+flex-direction: column;
+width: 100%;
+}
+.icons1{
+    display: flex;
+    padding-left: 20px;
+    margin-left: 10%;
+    gap: 5px;
+}
+.icons2{
+    display: flex;
+    padding-left: 20px;
+    margin-left: 10%;
+    gap: 5px;
+    margin-top: 5%;
+}
+}
