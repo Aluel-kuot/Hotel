@@ -1,19 +1,244 @@
 @media   screen  and ( max-width:800px){
-.homepage{
-flex-direction: column;
-width: 100%;
-}
+    nav{
+        padding:1px;
+        }
+        nav a{
+            padding: 2px;
+        }
+        .buttons{
+            margin-left:auto;
+            padding: 5px;
+        }
+        .sign{
+            margin-left:5px;
+        }
+        .checks{
+            margin-left: 20%;
+            padding: 40px;
+            padding-left: 10px;
+            border-radius: 20px;
+        }
 .icons1{
-    display: flex;
-    padding-left: 20px;
-    margin-left: 10%;
+    padding-left: 5px;
+    margin-left: 5%;
     gap: 5px;
 }
 .icons2{
-    display: flex;
-    padding-left: 20px;
-    margin-left: 10%;
+    padding-left: 5px;
+    margin-left: 5%;
     gap: 5px;
     margin-top: 5%;
+    width: 20%;
 }
+.r{
+    width: 50%;
+    height: 60%;
+}
+.img{
+        width: 80%;
+        height: 30%;
+}
+.imgs{
+    gap: 20px;
+}
+.client{
+    margin-left: 30%;
+    margin-top: 5%;
+    font-size: large;
+    font-weight: bolder;
+}
+.end{
+    padding: 5px;
+    margin-left:5%;
+    font-weight: bold;
+}
+.shei{
+    padding: 5px;
+    margin-left:0px;
+    font-weight: bold;
+}
+.pic{
+    width: 60%;
+    height: 20%;
+    margin-top: 5%;
+    margin-left: 10%;
+    border-radius: 100px;
+}
+.dolor{
+    padding: 20px;
+    margin-left:5px;
+}
+.ion{
+    width: 60px;
+    height:20px;
+}
+.reviews{
+    padding: 40px;
+}
+.rev{
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.s{
+    padding: 40px;
+}
+.lux{
+     font-size: large;
+     font-weight: bolder;
+}
+.pop{
+
+    margin-left: 20%;
+    margin-top: 10%;
+    font-size: x-large;
+    }
+    .Hnames{
+        margin-top: 150%;
+    }
+}
+@media screen and (max-width:500px){
+    nav{
+        padding:0px;
+        }
+        nav a{
+            padding: 0px;
+        }
+        .buttons{
+            padding: 0px;
+        }
+        .sign{
+            margin-left:5px;
+        }
+        .checks{
+            margin-left: 5%;
+            padding: 40px;
+            padding-left: 10px;
+            border-radius: 20px;
+        }
+    .s{
+padding:10px;
+    }
+    .dolor{
+        margin-left:2%;
+    }
+    .r{
+        width: 50%;
+        height: 50%;
+    }
+    .pop{
+        margin-left: 5%;
+        margin-top: 10%;
+        font-weight:bolder;
+        font-size: medium;
+        }
+        .b{
+            padding: 10px;
+        }
+        .food{
+            margin-left:5%;
+        }
+        .g{
+            width: 100%;
+            height:200px;
+            margin-top:20% ;
+        }
+        .us{
+            margin-left: 20%;
+            margin-top: 5%;
+            font-size: large;
+            font-weight: bolder; 
+        }
+        .dolor{
+            padding: 10px;
+            margin-left:1%;
+        }
+        .end{
+            padding:2px;
+            margin-left:5px;
+            font-weight: bold;
+        }
+        .new{
+            font-weight: bold;
+            font-size: larger;
+            margin-left: 10%;
+            }
+            .enter{
+                padding: 10px;
+                padding-left: 5px;
+                border-radius: 20px;
+                margin-left: 10%;
+                margin-bottom:5%;
+            }
+            .sits{
+                margin-left: 20%;
+            }
+            .subs{
+            border-radius: 10px 10px 10px 10px;
+            padding: 5px;
+            }
+            footer{
+                flex-direction: column;
+            }
+            .facilities{
+                margin-left:20% ;
+                margin-top: 5%;
+                font-size: x-large;
+                font-weight: bold;
+            }
+            .menu{
+                margin-left: 20%;
+                margin-top: 10%;
+                font-size: xx-large;
+                font-weight: bolder;
+            }
+            .client{
+                margin-left: 20%;
+                margin-top: 5%;
+                font-size: large;
+                font-weight: bolder;
+            }
+            .choose{
+                flex-direction: column;
+            }
+            .images1{
+                gap: 10px;
+            }
+            .images2{
+                gap: 10px;
+            }
+            .hotels{
+                flex-direction: column;
+                margin-left: 5%;
+            }
+            .hotel1{
+                width: 100%;
+                height: 300px;
+            }
+            .hotel2{
+                width: 100%;
+                height: 200px;
+            }
+            .hotel3{
+                width: 100%;
+                height: 200px;
+            }
+            .pasta{
+                flex-direction: column;
+                gap: 10px;
+            }
+            .biryani{
+                flex-direction: column;
+                gap: 10px;
+                margin-top: 2%;
+            }
+            .images1{
+                flex-direction: column;
+            }
+            .images2{
+                flex-direction: column;
+            }
+            .news{
+                border-radius: 50px 50px 0px 0px;
+            }
 }
