@@ -1,4 +1,4 @@
-@media   screen  and ( max-width:800px){
+@media   screen  and ( max-width:900px){
     nav{
         padding:1px;
         }
@@ -241,4 +241,33 @@ padding:10px;
             .news{
                 border-radius: 50px 50px 0px 0px;
             }
+}
+@media screen and (max-width:700px){
+    .service{
+        width: 70%;
+        height: 100px;
+        border-radius: 10px;
+    }
+    .variety2{
+flex-direction: column;
+    }
+.star{
+        width: 80%;
+        height: 200px;
+}
+}
+@media screen and(max-width:600px){
+    .imag1{
+        border-radius: 120px 10px 120px 10px;
+        height: 100px;
+        width: 100%;
+        margin-left: 10%;
+        }
+        .imag2{
+            border-radius: 10px 120px 10px 120px;
+            height: 100px;
+            width: 100%;
+            margin-left: 10px;  
+        }
+
 }
