@@ -1,4 +1,4 @@
-@media   screen  and ( max-width:900px){
+@media   screen  and ( max-width:1115px){
     nav{
         padding:1px;
         }
@@ -242,6 +242,7 @@ padding:10px;
                 border-radius: 50px 50px 0px 0px;
             }
 }
+/* //hotels */
 @media screen and (max-width:700px){
     .service{
         width: 70%;
@@ -250,12 +251,22 @@ padding:10px;
     }
     .variety2{
 flex-direction: column;
+margin-left: 10%;
     }
 .star{
-        width: 80%;
+        width: 100%;
         height: 200px;
 }
+.Hbuttons{
+    margin-top: 30%;
 }
+.seemore{
+    margin-left: 10%;
+    
+    }
+
+}
+/* //about us */
 @media screen and(max-width:600px){
     .imag1{
         border-radius: 120px 10px 120px 10px;
