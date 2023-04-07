@@ -280,5 +280,34 @@ margin-left: 10%;
             width: 100%;
             margin-left: 10px;  
         }
+        .pg1{
+            flex-direction: column;
+        }
+        .pg2{
+            flex-direction: column;
+        }
+        .pg3{
+            flex-direction: column;
+        }
 
 }
+/* //ContactUs */
+@media screen  and (max-width:620px){
+    .placeholder{
+        padding:3px 3px 3px 3px;  
+    }
+    .message{
+        border-radius:10px 10px   20px 10px;
+        padding: 20px 180px 30px 20px;
+    }
+    .cont{
+        margin-left: 10%; 
+    }
+    .contact{
+        margin-left: 10%;
+    }
+    .label{
+        margin-left: 1%;
+    }
+}
+    

@@ -497,3 +497,60 @@ font-weight: bold;
     display: flex;
     margin-top: 5%;
 }
+/* contactus */
+.contact{
+    margin-left: 30%;
+}
+.names{
+    display: flex;
+    padding: 20px 20px 20px 20px;
+    
+}
+.placeholder{
+    border: none;
+    border-radius: 5px;
+    padding:20px 70px 20px 20px;
+    background-color: #f8f9fa;
+    
+}
+.cont{
+    margin-left: 20%;
+    font-size: larger;
+    font-weight:bolder ;
+}
+.label{
+    margin-left: 5%;
+    font-size: larger;
+    font-weight:bolder ;
+    
+}
+.first{
+    font-size: larger;
+    font-weight:bolder ;
+}
+.postal{
+    font-size: larger;
+    font-weight:bolder ;
+}
+.mess{
+    font-size: larger;
+    font-weight:bolder ;
+}
+.email{
+    font-size: larger;
+    font-weight:bolder ;
+}
+.message{
+    border: none;
+    border-radius:10px 10px   60px 10px;
+    background-color: #f8f9fa;
+    padding: 20px 360px 100px 20px;
+}
+.sub{
+    border: none;
+    border-radius: 10px;
+    padding: 20px 45px 20px 45px;
+    background-color: #4dabf7;
+    color: #e9ecef;
+    font-size: medium;
+}
