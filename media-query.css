@@ -47,10 +47,26 @@
     font-size: large;
     font-weight: bolder;
 }
+.food{
+    margin-left: 20%;
+    flex-direction: column;
+}
+.facilities{
+    margin-left:20% ;
+    margin-top: 5%;
+}
+.brea{
+    flex-direction: column;
+}
 .end{
     padding: 5px;
     margin-left:5%;
     font-weight: bold;
+}
+.wifi{
+    margin-left:20px;
+    border-radius: 10px;
+    padding-left: 10px;
 }
 .shei{
     padding: 5px;
@@ -115,6 +131,15 @@
             padding: 40px;
             padding-left: 10px;
             border-radius: 20px;
+        }
+        .say{
+            flex-direction: column;
+        }
+        .wifi{
+            margin-left:0px;
+            padding-left:0px;
+            height: 300px;
+            width: 100%;
         }
     .s{
 padding:10px;
@@ -294,20 +319,38 @@ margin-left: 10%;
 /* //ContactUs */
 @media screen  and (max-width:620px){
     .placeholder{
-        padding:3px 3px 3px 3px;  
+        padding:20px 20px  
     }
     .message{
         border-radius:10px 10px   20px 10px;
-        padding: 20px 180px 30px 20px;
+        padding: 30px 250px 40px 30px;
     }
     .cont{
-        margin-left: 10%; 
+        margin-left: 20%; 
     }
     .contact{
-        margin-left: 10%;
+        margin-left: 20%;
     }
     .label{
-        margin-left: 1%;
+        margin-left: 5%;
     }
 }
-    
+@media screen and (max-width:500px){
+    .placeholder{
+        padding:0px 0px  
+    }
+    .message{
+        border-radius:10px 10px   20px 10px;
+        padding: 30px 150px 40px 30px;
+    }
+    .cont{
+        margin-left: 2%; 
+    }
+    .contact{
+        margin-left: 2%;
+    }
+    .label{
+        margin-left:0px;
+    }
+}
+
